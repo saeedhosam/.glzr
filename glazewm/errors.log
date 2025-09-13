@@ -1,0 +1,19 @@
+[2m2025-01-05T10:12:26.269581Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No common ancestor between containers.
+[2m2025-01-05T10:55:06.938406Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: invalid type: string "workspace 1", expected a sequence at line 141 column 15
+[2m2025-01-05T10:55:37.543802Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: invalid type: string "workspace 1", expected a sequence at line 141 column 15
+[2m2025-01-05T10:56:21.331218Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: unrecognized subcommand
+ at line 141 column 15
+[2m2025-01-05T10:56:40.362310Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: invalid type: string "workspace 1", expected a sequence at line 142 column 15
+[2m2025-01-05T10:56:42.324298Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: invalid type: string "workspace 1", expected a sequence at line 142 column 15
+[2m2025-01-05T10:57:22.595818Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: unrecognized subcommand
+ at line 142 column 15
+[2m2025-01-05T11:04:28.308328Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general: duplicate field `shutdown_commands` at line 5 column 3
+[2m2025-01-05T11:39:22.902043Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-01-08T17:48:42.548680Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-09T12:12:03.836676Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'yrundll32.exe user32.dll,LockWorkStation'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2025-09-13T14:29:04.689696Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[2].match: invalid type: map, expected a sequence at line 149 column 9
+[2m2025-09-13T14:59:39.634796Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '(New-Object -ComObject WScript.Shell).AppActivate(\"Calc\")'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2025-09-13T14:59:53.644726Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '(New-Object -ComObject WScript.Shell).AppActivate(\"Calc\")'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2025-09-13T15:02:07.565298Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 258 column 73, while parsing a flow sequence at line 257 column 15
+[2m2025-09-13T15:07:01.790586Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'focusCalc.ahk'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2025-09-13T15:07:21.005235Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '~/.glzr/glazewm/focusCalc.ahk'.\n\nError: Program path is not valid for command '~/.glzr/glazewm/focusCalc.ahk'."
