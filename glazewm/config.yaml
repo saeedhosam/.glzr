@@ -96,7 +96,7 @@ window_behavior:
   state_defaults:
     floating:
       # Whether to center floating windows by default.
-      centered: true
+      centered: false
 
       # Whether to show floating windows as always on top.
       shown_on_top: false
@@ -213,7 +213,7 @@ keybindings:
 
   # Change focus from tiling windows -> floating -> fullscreen.
   - commands: ["wm-cycle-focus"]
-    bindings: ["alt+space"]
+    bindings: ["alt+tab"]
 
   # Change the focused window to be floating.
   - commands: ["toggle-floating --centered"]
@@ -262,8 +262,8 @@ keybindings:
     bindings: ["alt+s"]
 
   # Focus the workspace that last had focus.
-  - commands: ["focus --recent-workspace"]
-    bindings: ["alt+tab"]
+  # - commands: ["focus --recent-workspace"]
+  #   bindings: ["alt+tab"]
 
   # Change focus to a workspace defined in `workspaces` config.
   - commands: ["focus --workspace 1"]
