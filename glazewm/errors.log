@@ -17,3 +17,11 @@
 [2m2025-09-13T15:02:07.565298Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 258 column 73, while parsing a flow sequence at line 257 column 15
 [2m2025-09-13T15:07:01.790586Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'focusCalc.ahk'.\n\nError: The operation was canceled by the user. (0x800704C7)"
 [2m2025-09-13T15:07:21.005235Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '~/.glzr/glazewm/focusCalc.ahk'.\n\nError: Program path is not valid for command '~/.glzr/glazewm/focusCalc.ahk'."
+[2m2025-11-19T07:34:35.118632Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'alacritty'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-11-19T07:34:45.193979Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'alacritty'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-11-20T11:57:00.935789Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:/Users/Saeed/.glzr/glazewm/focusCalc.ahk'.
+[2m2025-11-24T12:53:57.979725Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:/Users/Saeed/.glzr/glazewm/focusCalc.ahk'.

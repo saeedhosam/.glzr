@@ -250,8 +250,8 @@ keybindings:
   # Launch CMD terminal. Alternatively, use `shell-exec wt` or
   # `shell-exec %ProgramFiles%/Git/git-bash.exe` to start Windows
   # Terminal and Git Bash respectively.
-  - commands: ["shell-exec alacritty"]
-    bindings: ["alt+enter"]
+  # - commands: ["shell-exec alacritty"]
+  #   bindings: ["alt+enter"]
 
   # Open Widnows Claculator
   - commands: ["shell-exec C:/Users/Saeed/.glzr/glazewm/focusCalc.ahk"]
@@ -262,8 +262,8 @@ keybindings:
     bindings: ["alt+s"]
 
   # Focus the workspace that last had focus.
-  - commands: ["focus --recent-workspace"]
-    bindings: ["alt+tab"]
+  # - commands: ["focus --recent-workspace"]
+  #   bindings: ["alt+tab"]
 
   # Change focus to a workspace defined in `workspaces` config.
   - commands: ["focus --workspace 1"]
