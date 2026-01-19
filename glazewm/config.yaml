@@ -250,8 +250,8 @@ keybindings:
   # Launch CMD terminal. Alternatively, use `shell-exec wt` or
   # `shell-exec %ProgramFiles%/Git/git-bash.exe` to start Windows
   # Terminal and Git Bash respectively.
-  # - commands: ["shell-exec alacritty"]
-  #   bindings: ["alt+enter"]
+  - commands: ["shell-exec alacritty"]
+    bindings: ["alt+enter"]
 
   # Open Widnows Claculator
   - commands: ["shell-exec C:/Users/Saeed/.glzr/glazewm/focusCalc.ahk"]
