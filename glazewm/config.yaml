@@ -175,6 +175,11 @@ keybindings:
   - commands: ["focus --direction down"]
     bindings: ["alt+j"]
 
+  - commands: ["resize --width -2%"]
+    bindings: ["alt+left", "left"]
+  - commands: ["resize --width +2%"]
+    bindings: ["alt+right", "right"]
+
   # Move focused window in a given direction.
   - commands: ["move --direction left"]
     bindings: ["alt+shift+h", "alt+shift+left"]
